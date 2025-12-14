@@ -58,7 +58,7 @@ const config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'sidebar', // 🔥 MUST match sidebars.js
+          sidebarId: 'docs', // 🔥 MUST match sidebars.js
           position: 'left',
           label: 'Book',
         },
